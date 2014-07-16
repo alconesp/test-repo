@@ -1,4 +1,4 @@
-test-repo
+Repo for testing Github
 =========
 
-Repo for testing github
+This is my first repo on Github. I am going to use it just for testing things so don't expect too much from it. 
